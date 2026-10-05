@@ -4,7 +4,7 @@ A modern, animated, high-converting redesign of the TIS homepage built with Next
 
 ## 🚀 Live Demo
 - **Live URL:** https://tis-homepage-redesign.vercel.app
-- **Repository:** https://github.com/your-username/tis-homepage-redesign
+- **Repository:**[https://github.com/your-username/tis-homepage-redesign](https://github.com/amitv28242/TIS-homepage-redesign)
 ## 🛠️ Tech Stack
 - **Framework:** Next.js 14 (App Router)
 - **Styling:** Tailwind CSS + CSS variables
