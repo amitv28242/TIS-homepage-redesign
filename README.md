@@ -26,7 +26,7 @@ A modern, animated, high-converting redesign of the TIS homepage built with Next
 ## 📦 Getting Started Locally
 
 ```bash
-git clone https://github.com/your-username/tis-homepage-redesign.git
+https://github.com/amitv28242/TIS-homepage-redesign
 cd tis-homepage-redesign
 npm install
 npm run dev
